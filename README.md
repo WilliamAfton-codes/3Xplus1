@@ -2,7 +2,7 @@
 3x+1 - The Collatz conjecture, an infamous unsolved mathematical conjecture
 
 # What is 3x+1?
-According to Wikipedia, the Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
+According to Wikipedia, the Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1. Informative video from Veritaseum (here)[https://www.youtube.com/watch?v=094y1Z2wpJg]
 
 If a number is odd, the number is multiplied by 3, and then one is added. However, if the number is even it is halved.
 
